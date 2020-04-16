@@ -1,6 +1,6 @@
-# tipsy
+# Tipsy
 
-A new Flutter project.
+Flutter sample app for calculating tips.
 
 ## Getting Started
 
